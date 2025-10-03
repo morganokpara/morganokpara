@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm John Doe 👋</h1>
+<h1 align="center"> I'm Morgan Okpara </h1>
 
 <p align="center">
   💻 Developer | 🧠 ML Researcher | 🌍 Open Source Enthusiast

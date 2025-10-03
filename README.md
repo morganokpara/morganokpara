@@ -6,8 +6,8 @@
 [Websiteonline](morganokpara.github.io) 
 
 ---
-[website](morganokpara.github.io)
-### 👨‍💻 About Me
+[Website](morganokpara.github.io)
+
 I am a Masters student in the [Host Microbe Interactions MSc program](https://hosmic.uth.gr), at the [Microbial Communities and Habitats in Aquatic  Environments Laboratory (MiCHAEL)](https://sites.google.com/site/kkormas) University of Thesssaly, Greece. 
 
 Using 16S rRNA gene sequencing and bioinformatics, I studied bovine gut microbial composition and structure, and metabolite variation during pregnancy and lacation as my MSc project. 

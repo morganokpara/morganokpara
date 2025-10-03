@@ -21,18 +21,3 @@ I am interested in using novel computational, statistical and machine learning a
 I’m always open to discussing science and exploring collaboration opportunities. Feel free to contact me via email: [Email](morganokpara@gmail.com)
 
 ---
-
-### 🚀 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
----
-
-### 📫 Get in Touch
-
-- Email: johndoe@example.com  
-- [LinkedIn](https://linkedin.com/in/yourprofile)  
-- [Website](https://yourwebsite.com)
-

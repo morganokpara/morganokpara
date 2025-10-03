@@ -19,7 +19,7 @@ I am interested in using novel computational, statistical and machine learning a
 - Symbiosis between host and their microbiome evolved.
 - Microbiome influences pathogen virulence and antibiotic resistance.
   
-I’m always open to discussing science and exploring collaboration opportunities. Feel free to contact me via email: [Email](morganokpara@gmail.com
+I’m always open to discussing science and exploring collaboration opportunities. Feel free to contact me via email: [Email](morganokpara@gmail.com)
 
 ---
 

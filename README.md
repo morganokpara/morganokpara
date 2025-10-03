@@ -3,6 +3,8 @@
 <p align="center">
   💻 Developer | 🧠 ML Researcher | 🌍 Open Source Enthusiast
 </p>
+<p align="center"> [Website](morganokpara.github.io)
+</p>
 
 ---
 
@@ -16,7 +18,8 @@ I am interested in using novel computational, statistical and machine learning a
 - Host-microbe interactions affect disease.
 - Symbiosis between host and their microbiome evolved.
 - Microbiome influences pathogen virulence and antibiotic resistance.
-
+  
+I’m always open to discussing science and exploring collaboration opportunities. Feel free to contact me via email: [Email](morganokpara@gmail.com
 
 ---
 

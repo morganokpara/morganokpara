@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm John Doe 👋</h1>
 
-<!--
-**morganokpara/morganokpara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Developer | 🧠 ML Researcher | 🌍 Open Source Enthusiast
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+I'm a software engineer and machine learning enthusiast working on cool projects using:
+
+- 🧠 Machine Learning & Deep Learning
+- 📊 Statistical Analysis
+- ⚙️ High-throughput Genomics
+- 🖥️ Scalable Cloud Infrastructure
+
+Currently exploring ways to integrate AI with genomics for real-world health applications.
+
+---
+
+### 🚀 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+---
+
+### 📫 Get in Touch
+
+- Email: johndoe@example.com  
+- [LinkedIn](https://linkedin.com/in/yourprofile)  
+- [Website](https://yourwebsite.com)
+

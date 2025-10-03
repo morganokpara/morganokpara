@@ -7,15 +7,16 @@
 ---
 
 ### 👨‍💻 About Me
+I am a Masters student in the [Host Microbe Interactions MSc program](https://hosmic.uth.gr), at the [Microbial Communities and Habitats in Aquatic  Environments Laboratory (MiCHAEL)](https://sites.google.com/site/kkormas) University of Thesssaly, Greece. 
 
-I'm a software engineer and machine learning enthusiast working on cool projects using:
+Using 16S rRNA gene sequencing and bioinformatics, I studied bovine gut microbial composition and structure, and metabolite variation during pregnancy and lacation. 
 
-- 🧠 Machine Learning & Deep Learning
-- 📊 Statistical Analysis
-- ⚙️ High-throughput Genomics
-- 🖥️ Scalable Cloud Infrastructure
+I am interested in using novel computational, statistical and machine learning as well as high-throughput genomic approaches to understand **how**:
+- Hosts (particularly human and animals) interact with their microbial communities.
+- Host-microbe interactions affect disease.
+- Symbiosis between host and their microbiome evolved.
+- Microbiome influences pathogen virulence and antibiotic resistance.
 
-Currently exploring ways to integrate AI with genomics for real-world health applications.
 
 ---
 

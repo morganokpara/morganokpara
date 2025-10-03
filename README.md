@@ -3,8 +3,7 @@
 <p align="center">
   💻 Developer | 🧠 ML Researcher | 🌍 Open Source Enthusiast
 </p>
-<p align="center"[Website](morganokpara.github.io)
-</p>
+[Website](morganokpara.github.io)
 
 ---
 

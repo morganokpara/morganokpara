@@ -1,7 +1,7 @@
 <h1 align="center"> Morgan Okpara </h1>
 
 <p align="center">
-  💻 Developer | 🧠 ML Researcher | 🌍 Open Source Enthusiast
+  Bioinformatics | Microbiome | Genomics
 </p>
 
 <a href="https://morganokpara.github.io" target="_blank">Website</a>
